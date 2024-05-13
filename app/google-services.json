@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111826159700",
+    "project_id": "laundrypal-24795",
+    "storage_bucket": "laundrypal-24795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111826159700:android:23713fc04bac64ea3045c1",
+        "android_client_info": {
+          "package_name": "com.zynta.laundrypal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdWhbH8rSA_GCVuFWmvihq4ismNI4n_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
